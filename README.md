@@ -1,6 +1,6 @@
 ### Hi there welcome to my profile 👋
 
-![Alt Text](https://github.com/jacopoesposito/jacopoesposito/blob/main/gif.gif)
+![Alt Text](https://github.com/jacopoesposito/jacopoesposito/blob/main/gif.gif | width=250)
 Opensource addicted, love to code in Java and Python, follow your dream 💻 🌈
 
 <!--
