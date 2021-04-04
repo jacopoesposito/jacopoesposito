@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there welcome to my profile 👋
+
+![alt text]('https://tenor.com/view/keyboard-type-typing-anime-gif-10503435')
+Opensource addicted, love to code in Java and Python, follow your dream 💻 🌈
 
 <!--
 **jacopoesposito/jacopoesposito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
