@@ -1,8 +1,13 @@
 ### Hi there welcome to my profile 👋
 
-![](https://github.com/jacopoesposito/jacopoesposito/blob/main/gif.gif)
+-Opensource addicted
+-Fedora user 
+-Love to code in Java☕ and Python🐍
+-Following my dream 💻 🌈
  <br />
-Opensource addicted, love to code in Java and Python, follow your dream 💻 🌈
+![](https://github.com/jacopoesposito/jacopoesposito/blob/main/gif.gif)
+
+
 
 <!--
 **jacopoesposito/jacopoesposito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
