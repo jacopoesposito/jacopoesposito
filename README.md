@@ -1,6 +1,6 @@
 ### Hi there welcome to my profile 👋
 
-![Alt Text](https://tenor.com/SeAp.gif)
+![Alt Text]()
 Opensource addicted, love to code in Java and Python, follow your dream 💻 🌈
 
 <!--
