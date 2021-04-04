@@ -4,6 +4,7 @@
 - Fedora user 
 - Love to code in Java☕ and Python🐍
 - Following my dream 💻 🌈
+ 
 ![](https://github.com/jacopoesposito/jacopoesposito/blob/main/gif.gif)
 
 
