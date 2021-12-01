@@ -2,7 +2,7 @@
 
 - Opensource addicted
 - Fedora user 
-- Love to code in Java☕ and Python🐍
+- Love to code in Java☕, Python🐍 and C.
 - Following my dream 💻 🌈
  
 ![](https://github.com/jacopoesposito/jacopoesposito/blob/main/gif.gif)
