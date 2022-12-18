@@ -4,7 +4,7 @@
 - Fedora user 
 - Love to code in Java☕, Python🐍 and C.
 - Following my dream 💻 🌈
-<a rel="me" href="https://mastodon.uno/@jacopoesposito">Mastodon</a>
+- <a rel="me" href="https://mastodon.uno/@jacopoesposito">Mastodon</a>
 ![](https://github.com/jacopoesposito/jacopoesposito/blob/main/gif.gif)
 
 
