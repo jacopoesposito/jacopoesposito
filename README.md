@@ -1,7 +1,6 @@
 ### Hi there, welcome to my profile 👋
 
 - Opensource addicted
-- Fedora user 
 - Love to code in Java☕, Python🐍 and C.
 - Following my dream 💻 🌈
 
